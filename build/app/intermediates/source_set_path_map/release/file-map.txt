@@ -1,0 +1,33 @@
+com.example.project_1.app-jetified-lifecycle-viewmodel-savedstate-2.7.0-0 C:\Users\raavi\.gradle\caches\transforms-3\07926e9dd6d2922998d53bc9d6f3a705\transformed\jetified-lifecycle-viewmodel-savedstate-2.7.0\res
+com.example.project_1.app-jetified-core-ktx-1.13.1-1 C:\Users\raavi\.gradle\caches\transforms-3\099ef2dbbc193577e9dcd56d559d5ec1\transformed\jetified-core-ktx-1.13.1\res
+com.example.project_1.app-jetified-appcompat-resources-1.1.0-2 C:\Users\raavi\.gradle\caches\transforms-3\1995847c4a0512eb452279ce58b6428b\transformed\jetified-appcompat-resources-1.1.0\res
+com.example.project_1.app-jetified-tracing-1.2.0-3 C:\Users\raavi\.gradle\caches\transforms-3\370a9893436caaf66b5050c00c77fdb4\transformed\jetified-tracing-1.2.0\res
+com.example.project_1.app-jetified-lifecycle-process-2.7.0-4 C:\Users\raavi\.gradle\caches\transforms-3\44044a208c03d19a0e9d5ccd4ff99f9d\transformed\jetified-lifecycle-process-2.7.0\res
+com.example.project_1.app-jetified-activity-1.8.1-5 C:\Users\raavi\.gradle\caches\transforms-3\449ef367de5c33516dfc1aa4f572f1d4\transformed\jetified-activity-1.8.1\res
+com.example.project_1.app-core-1.13.1-6 C:\Users\raavi\.gradle\caches\transforms-3\529e6fab77eff97904e1ceffad45a534\transformed\core-1.13.1\res
+com.example.project_1.app-appcompat-1.1.0-7 C:\Users\raavi\.gradle\caches\transforms-3\6376b32daf51bfcce669fc0f207eff70\transformed\appcompat-1.1.0\res
+com.example.project_1.app-lifecycle-livedata-core-2.7.0-8 C:\Users\raavi\.gradle\caches\transforms-3\73f3e06b1de8f4a65a18f14a8fe4af41\transformed\lifecycle-livedata-core-2.7.0\res
+com.example.project_1.app-jetified-window-1.2.0-9 C:\Users\raavi\.gradle\caches\transforms-3\814da641c7c13a20a2e446d3538ad44b\transformed\jetified-window-1.2.0\res
+com.example.project_1.app-jetified-window-java-1.2.0-10 C:\Users\raavi\.gradle\caches\transforms-3\84d6370800ee9a86978b7ceb3da5074c\transformed\jetified-window-java-1.2.0\res
+com.example.project_1.app-jetified-lifecycle-livedata-core-ktx-2.7.0-11 C:\Users\raavi\.gradle\caches\transforms-3\8809a620a6fc13ff4a620cb81495591d\transformed\jetified-lifecycle-livedata-core-ktx-2.7.0\res
+com.example.project_1.app-jetified-savedstate-1.2.1-12 C:\Users\raavi\.gradle\caches\transforms-3\afe8c753410c42da1c05295caf1654ed\transformed\jetified-savedstate-1.2.1\res
+com.example.project_1.app-jetified-profileinstaller-1.3.1-13 C:\Users\raavi\.gradle\caches\transforms-3\b2e42c0eaac31d5436f253120274cbcc\transformed\jetified-profileinstaller-1.3.1\res
+com.example.project_1.app-core-runtime-2.2.0-14 C:\Users\raavi\.gradle\caches\transforms-3\b371bee824984751d972d88fe707d7de\transformed\core-runtime-2.2.0\res
+com.example.project_1.app-jetified-core-1.0.0-15 C:\Users\raavi\.gradle\caches\transforms-3\bc5b0e9882841db6e07e02fcd9994e08\transformed\jetified-core-1.0.0\res
+com.example.project_1.app-jetified-startup-runtime-1.1.1-16 C:\Users\raavi\.gradle\caches\transforms-3\c2aac883591e6b9c8b11ac85a829b81f\transformed\jetified-startup-runtime-1.1.1\res
+com.example.project_1.app-jetified-annotation-experimental-1.4.0-17 C:\Users\raavi\.gradle\caches\transforms-3\d43dcef48503941f31ea02ddd7ff24b6\transformed\jetified-annotation-experimental-1.4.0\res
+com.example.project_1.app-browser-1.8.0-18 C:\Users\raavi\.gradle\caches\transforms-3\dc8444f433b3b294304335f7d9534713\transformed\browser-1.8.0\res
+com.example.project_1.app-lifecycle-runtime-2.7.0-19 C:\Users\raavi\.gradle\caches\transforms-3\dfb5737d024ce0a644d1777fe79de90b\transformed\lifecycle-runtime-2.7.0\res
+com.example.project_1.app-lifecycle-viewmodel-2.7.0-20 C:\Users\raavi\.gradle\caches\transforms-3\ec18ba7c05f928c03d356b9f9b4fb056\transformed\lifecycle-viewmodel-2.7.0\res
+com.example.project_1.app-lifecycle-livedata-2.7.0-21 C:\Users\raavi\.gradle\caches\transforms-3\ec18bf9be4d23798d3a77580c3f83d76\transformed\lifecycle-livedata-2.7.0\res
+com.example.project_1.app-fragment-1.7.1-22 C:\Users\raavi\.gradle\caches\transforms-3\fde59c8123a35519d6302d9fb0f606ab\transformed\fragment-1.7.1\res
+com.example.project_1.app-main-23 C:\Users\raavi\Downloads\project_1 (1)\project_1\android\app\src\main\res
+com.example.project_1.app-release-24 C:\Users\raavi\Downloads\project_1 (1)\project_1\android\app\src\release\res
+com.example.project_1.app-pngs-25 C:\Users\raavi\Downloads\project_1 (1)\project_1\build\app\generated\res\pngs\release
+com.example.project_1.app-resValues-26 C:\Users\raavi\Downloads\project_1 (1)\project_1\build\app\generated\res\resValues\release
+com.example.project_1.app-rs-27 C:\Users\raavi\Downloads\project_1 (1)\project_1\build\app\generated\res\rs\release
+com.example.project_1.app-mergeReleaseResources-28 C:\Users\raavi\Downloads\project_1 (1)\project_1\build\app\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.example.project_1.app-mergeReleaseResources-29 C:\Users\raavi\Downloads\project_1 (1)\project_1\build\app\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.example.project_1.app-merged_res-30 C:\Users\raavi\Downloads\project_1 (1)\project_1\build\app\intermediates\merged_res\release
+com.example.project_1.app-packaged_res-31 C:\Users\raavi\Downloads\project_1 (1)\project_1\build\flutter_webview_plugin\intermediates\packaged_res\release
+com.example.project_1.app-packaged_res-32 C:\Users\raavi\Downloads\project_1 (1)\project_1\build\url_launcher_android\intermediates\packaged_res\release
